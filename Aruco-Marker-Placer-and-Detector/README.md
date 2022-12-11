@@ -7,10 +7,12 @@ included the code required to obtain the calibration matrix for your
 camera.
 
 ## Input Image
-<img src = '[Aruco-Marker-Placer-and-Detector/Assets/CVtask.jpg](https://github.com/RajaBabu15/Aruco-Marker-Placer-and-Detector/blob/a4dd675e7cdc21c4862b4c86ba595be4b8bbef03/Aruco-Marker-Placer-and-Detector/Assets/CVtask.jpg)' width=400 height=400>
+
+![CVtask](https://user-images.githubusercontent.com/100289530/206892189-8ddf4604-0950-4e0a-b27e-da7dac216066.jpg)
 
 ## Output Image
-<img src = 'Assets\CVtask_Output.jpg' width=400 height=400>
+
+![CVtask_Output](https://user-images.githubusercontent.com/100289530/206892193-f957979e-fa83-4a0c-bda6-7f89f1d18c65.jpg)
 
 # Test
 The file `Testing.py` contains the codes for test the placement of default markers
@@ -83,9 +85,11 @@ You can find more details on other parameters using `python pose_estimation.py -
 
 ## Output
 
-<img src ='Images/output_sample.png' width = 400>  
 
-<img src ='Images/pose_output.gif'>
+![output_sample](https://user-images.githubusercontent.com/100289530/206892227-d70952d8-2efa-4c10-b41b-eb7e92bd492e.png)
+
+![pose_output](https://user-images.githubusercontent.com/100289530/206892237-4b72a4a9-90f1-4ab8-af88-b1ae30e3a45c.gif)
+
 
 ### <ins>Notes</ins>
 The `utils.py` contains the ArUCo Markers dictionary and the other utility function to display the detected markers.
