@@ -7,7 +7,7 @@ included the code required to obtain the calibration matrix for your
 camera.
 
 ## Input Image
-<img src = '[\Assets\CVtask.jpg](https://github.com/RajaBabu15/Aruco-Marker-Placer-and-Detector/blob/main/Aruco-Marker-Placer-and-Detector/Assets/CVtask.jpg)' width=400 height=400>
+<img src = 'Aruco-Marker-Placer-and-Detector/Assets/CVtask.jpg' width=400 height=400>
 
 ## Output Image
 <img src = 'Assets\CVtask_Output.jpg' width=400 height=400>
